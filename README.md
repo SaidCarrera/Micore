@@ -18,17 +18,23 @@ API RESTful: El backend expone varios endpoints para gestionar la información d
 Persistencia en Base de Datos: Utiliza MongoDB para guardar todos los datos, permitiendo consultas rápidas y almacenamiento seguro.
 Tecnologías Utilizadas
 
+
 # Backend
 Node.js: Entorno de ejecución para JavaScript en el servidor.
 Express: Framework para construir APIs de manera rápida y organizada.
 MongoDB: Base de datos NoSQL para la persistencia de datos.
 Mongoose: ODM (Object-Document Mapper) para interactuar con MongoDB.
 Nodemon: Herramienta para desarrollo que reinicia automáticamente el servidor en caso de cambios.
+
+<img width="323" alt="Captura de pantalla 2024-11-02 a la(s) 12 05 54 p  m" src="https://github.com/user-attachments/assets/169d5ead-879b-4fbd-b915-2fecbe810448">
+
 # Frontend
 Angular: Framework para construir aplicaciones de una sola página (SPA) con TypeScript.
 Angular Material: Biblioteca de componentes para crear una UI intuitiva y responsiva.
 RxJS: Librería para programación reactiva, usada para manejar datos asíncronos.
 Instalación y Configuración
+
+<img width="720" alt="Captura de pantalla 2024-11-02 a la(s) 12 05 02 p  m" src="https://github.com/user-attachments/assets/d7134c30-a8eb-4a49-b0b4-fbb9012edee7">
 
 # Prerrequisitos
 Node.js
