@@ -7,7 +7,8 @@ Este proyecto es una aplicación completa para la gestión de comisiones de vend
 La aplicación permite a los usuarios gestionar y visualizar las comisiones generadas por los vendedores. Incluye un sistema de almacenamiento de datos, rutas para gestionar la información y una interfaz intuitiva para visualizar las comisiones y estadísticas relevantes.
 
 # Estructura del Proyecto
-# Backend: Construido en Node.js y Express, con MongoDB como base de datos para almacenar la información de los vendedores y sus comisiones.
+Backend: 
+Construido en Node.js y Express, con MongoDB como base de datos para almacenar la información de los vendedores y sus comisiones.
 Frontend: Desarrollado en Angular, con Angular Material para una interfaz de usuario atractiva y funcional.
 Características
 
